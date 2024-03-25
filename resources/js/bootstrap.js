@@ -6,6 +6,7 @@
 
 import axios from 'axios';
 import Alpine from 'alpinejs'
+import 'alpinejs';
 
 window.axios = axios;
 
